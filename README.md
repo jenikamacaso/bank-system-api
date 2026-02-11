@@ -1,16 +1,16 @@
 # Bank Account Management System API
 
 ## Setup Backend
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 ## Setup Frontend
-npm install
-ng serve
+- npm install
+- ng serve
 
 ## Login Accounts
-admin / password123
-staff / password456
+- admin / password123
+- staff / password456
 
 ## Assumptions
 - No real banking transactions
